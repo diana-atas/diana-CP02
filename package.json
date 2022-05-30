@@ -1,0 +1,25 @@
+{
+  "name": "diana-cp02",
+  "version": "0.1.0",
+  "description": "my cowsay",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diana-atas/diana-CP02.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "diana-atas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diana-atas/diana-CP02/issues"
+  },
+  "homepage": "https://github.com/diana-atas/diana-CP02#readme",
+  "devDependencies": {
+    "cowsay": "^1.5.0"
+  }
+}
